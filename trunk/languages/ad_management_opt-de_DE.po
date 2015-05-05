@@ -1,0 +1,190 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ad-management\n"
+"POT-Creation-Date: 2015-04-21 18:14+0100\n"
+"PO-Revision-Date: 2015-04-21 18:15+0100\n"
+"Last-Translator: \n"
+"Language-Team: Manuel Fehrenbach\n"
+"Language: Englisch\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: E:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\ad-"
+"management-plugin\n"
+
+#: E:\xampp\htdocs\wordpress\wp-content\plugins\ad-management-plugin/ad-management-admin-page.php:206
+msgid "Properties for Ad Management Plugin"
+msgstr "Einstellungen für Ad-Management Plugin"
+
+#: E:\xampp\htdocs\wordpress\wp-content\plugins\ad-management-plugin/ad-management-admin-page.php:212
+#: E:\xampp\htdocs\wordpress\wp-content\plugins\ad-management-plugin/ad-management-admin-page.php:533
+msgid "Code"
+msgstr "Code"
+
+#: E:\xampp\htdocs\wordpress\wp-content\plugins\ad-management-plugin/ad-management-admin-page.php:213
+msgid "Author"
+msgstr "Autor"
+
+#: E:\xampp\htdocs\wordpress\wp-content\plugins\ad-management-plugin/ad-management-admin-page.php:214
+#: E:\xampp\htdocs\wordpress\wp-content\plugins\ad-management-plugin/ad-management-admin-page.php:259
+msgid "Roles"
+msgstr "Rollen"
+
+#: E:\xampp\htdocs\wordpress\wp-content\plugins\ad-management-plugin/ad-management-admin-page.php:221
+msgid "Ad-Code"
+msgstr "Werbecode"
+
+#: E:\xampp\htdocs\wordpress\wp-content\plugins\ad-management-plugin/ad-management-admin-page.php:227
+msgid "Number new Codes: "
+msgstr "Anzahl neuer Codes"
+
+#: E:\xampp\htdocs\wordpress\wp-content\plugins\ad-management-plugin/ad-management-admin-page.php:237
+#: E:\xampp\htdocs\wordpress\wp-content\plugins\ad-management-plugin/ad-management-admin-page.php:255
+#: E:\xampp\htdocs\wordpress\wp-content\plugins\ad-management-plugin/ad-management-admin-page.php:280
+#: E:\xampp\htdocs\wordpress\wp-content\plugins\ad-management-plugin/ad-management-user-code-page.php:71
+msgid "Safe"
+msgstr "Speichern"
+
+#: E:\xampp\htdocs\wordpress\wp-content\plugins\ad-management-plugin/ad-management-admin-page.php:241
+msgid "Authors"
+msgstr "Autoren"
+
+#: E:\xampp\htdocs\wordpress\wp-content\plugins\ad-management-plugin/ad-management-admin-page.php:383
+msgid "Delete"
+msgstr "Löschen"
+
+#: E:\xampp\htdocs\wordpress\wp-content\plugins\ad-management-plugin/ad-management-admin-page.php:389
+msgid "Your Code:"
+msgstr "Dein Code"
+
+#: E:\xampp\htdocs\wordpress\wp-content\plugins\ad-management-plugin/ad-management-admin-page.php:400
+#: E:\xampp\htdocs\wordpress\wp-content\plugins\ad-management-plugin/ad-management-admin-page.php:511
+msgid "Show"
+msgstr "Anzeigen"
+
+#: E:\xampp\htdocs\wordpress\wp-content\plugins\ad-management-plugin/ad-management-admin-page.php:422
+msgid "After Paragraphs"
+msgstr "Nach Absätzen"
+
+#: E:\xampp\htdocs\wordpress\wp-content\plugins\ad-management-plugin/ad-management-admin-page.php:457
+msgid "Free for Ad-Code"
+msgstr "Für Ad-Code freigeben"
+
+#: E:\xampp\htdocs\wordpress\wp-content\plugins\ad-management-plugin/ad-management-admin-page.php:463
+#: E:\xampp\htdocs\wordpress\wp-content\plugins\ad-management-plugin/ad-management-admin-page.php:466
+#: E:\xampp\htdocs\wordpress\wp-content\plugins\ad-management-plugin/ad-management-admin-page.php:469
+msgid "Article Count "
+msgstr "Artikel Anzahl"
+
+#: E:\xampp\htdocs\wordpress\wp-content\plugins\ad-management-plugin/ad-management-admin-page.php:474
+#, php-format
+msgid "Display % of Authors Code "
+msgstr "Anzeige % der Autoren Codes"
+
+#: E:\xampp\htdocs\wordpress\wp-content\plugins\ad-management-plugin/ad-management-admin-page.php:477
+#: E:\xampp\htdocs\wordpress\wp-content\plugins\ad-management-plugin/ad-management-admin-page.php:480
+#, php-format
+msgid "Display % of Authors Code"
+msgstr "Anzeige % der Autoren Codes"
+
+#: E:\xampp\htdocs\wordpress\wp-content\plugins\ad-management-plugin/ad-management-admin-page.php:530
+msgid "Name"
+msgstr "Name"
+
+#: E:\xampp\htdocs\wordpress\wp-content\plugins\ad-management-plugin/ad-management-admin-page.php:536
+msgid "Number Articles"
+msgstr "Anzahl Artikel"
+
+#: E:\xampp\htdocs\wordpress\wp-content\plugins\ad-management-plugin/ad-management-admin-page.php:539
+msgid "User Status"
+msgstr "User status"
+
+#: E:\xampp\htdocs\wordpress\wp-content\plugins\ad-management-plugin/ad-management-admin-page.php:574
+msgid "No Status"
+msgstr "Kein Status"
+
+#: E:\xampp\htdocs\wordpress\wp-content\plugins\ad-management-plugin/ad-management-user-code-page.php:55
+msgid "User Advertisement Code Input"
+msgstr "User Advertisement Code Eingabe"
+
+#~ msgid "Autor"
+#~ msgstr "Author"
+
+#~ msgid "Rollen"
+#~ msgstr "Roles"
+
+#~ msgid "Klick Einstellungen"
+#~ msgstr "Click Properties"
+
+#~ msgid "Werbecode"
+#~ msgstr "Advertisement Code"
+
+#~ msgid "Anzahl neuer Codes: "
+#~ msgstr "Number of new codes"
+
+#~ msgid "Speichern"
+#~ msgstr "Safe"
+
+#~ msgid "Autoren"
+#~ msgstr "Authors"
+
+#~ msgid "Löschen"
+#~ msgstr "Delete"
+
+#~ msgid "Anzeigen"
+#~ msgstr "Show"
+
+#~ msgid "Nach Absaetzen"
+#~ msgstr "After Paragraphs"
+
+#~ msgid "Für Werbecode Freigeben"
+#~ msgstr "Free for Ad-Code"
+
+#~ msgid "Beitrags Anzahl "
+#~ msgstr "Article Count"
+
+#~ msgid "Anzeige % des Author "
+#~ msgstr "Display % of the Author"
+
+#~ msgid "Anzeige % des Author"
+#~ msgstr "Display % of the Author"
+
+#~ msgid "Anzahl Beitraege"
+#~ msgstr "Count of Articles"
+
+#~ msgid "Kein Status"
+#~ msgstr "No Status"
+
+#~ msgid "Max. Klicks: "
+#~ msgstr "Max. Clicks"
+
+#~ msgid "Nur Google Ad Blocken: "
+#~ msgstr "Block just Google Ad"
+
+#~ msgid "Klick Überwachung aktivieren: "
+#~ msgstr "Click Protection activate"
+
+#~ msgid "Adresse"
+#~ msgstr "Address"
+
+#~ msgid "Adressen"
+#~ msgstr "Addresses"
+
+#~ msgid "Löschen (Wenn Geblocked)"
+#~ msgstr "Delete(If Blocked)"
+
+#~ msgid "Ip Adresse"
+#~ msgstr "Ip Address"
+
+#~ msgid "Klicks"
+#~ msgstr "Clicks"
+
+#~ msgid "Letzter Klick"
+#~ msgstr "Last Click"
+
+#~ msgid "Seite auf der er geblocket wurde"
+#~ msgstr "Page where he was blocked"

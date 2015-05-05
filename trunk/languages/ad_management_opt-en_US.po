@@ -1,0 +1,158 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ad-management\n"
+"POT-Creation-Date: 2015-04-19 15:55+0100\n"
+"PO-Revision-Date: 2015-04-19 22:39+0100\n"
+"Last-Translator: \n"
+"Language-Team: Manuel Fehrenbach\n"
+"Language: Englisch\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: E:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\ad-"
+"management-plugin\n"
+
+#: E:\xampp\htdocs\wordpress\wp-content\plugins\ad-management-plugin/ad-management-admin-page.php:206
+msgid "Einstellungen für Ad Management Plugin"
+msgstr "Properties for Ad Management Plugin"
+
+#: E:\xampp\htdocs\wordpress\wp-content\plugins\ad-management-plugin/ad-management-admin-page.php:212
+#: E:\xampp\htdocs\wordpress\wp-content\plugins\ad-management-plugin/ad-management-admin-page.php:556
+msgid "Code"
+msgstr "Code"
+
+#: E:\xampp\htdocs\wordpress\wp-content\plugins\ad-management-plugin/ad-management-admin-page.php:213
+msgid "Autor"
+msgstr "Author"
+
+#: E:\xampp\htdocs\wordpress\wp-content\plugins\ad-management-plugin/ad-management-admin-page.php:214
+#: E:\xampp\htdocs\wordpress\wp-content\plugins\ad-management-plugin/ad-management-admin-page.php:260
+msgid "Rollen"
+msgstr "Roles"
+
+#: E:\xampp\htdocs\wordpress\wp-content\plugins\ad-management-plugin/ad-management-admin-page.php:215
+#: E:\xampp\htdocs\wordpress\wp-content\plugins\ad-management-plugin/ad-management-admin-page.php:285
+msgid "Klick Einstellungen"
+msgstr "Click Properties"
+
+#: E:\xampp\htdocs\wordpress\wp-content\plugins\ad-management-plugin/ad-management-admin-page.php:222
+msgid "Werbecode"
+msgstr "Advertisement Code"
+
+#: E:\xampp\htdocs\wordpress\wp-content\plugins\ad-management-plugin/ad-management-admin-page.php:228
+msgid "Anzahl neuer Codes: "
+msgstr "Number of new codes"
+
+#: E:\xampp\htdocs\wordpress\wp-content\plugins\ad-management-plugin/ad-management-admin-page.php:238
+#: E:\xampp\htdocs\wordpress\wp-content\plugins\ad-management-plugin/ad-management-admin-page.php:256
+#: E:\xampp\htdocs\wordpress\wp-content\plugins\ad-management-plugin/ad-management-admin-page.php:281
+#: E:\xampp\htdocs\wordpress\wp-content\plugins\ad-management-plugin/ad-management-admin-page.php:300
+#: E:\xampp\htdocs\wordpress\wp-content\plugins\ad-management-plugin/ad-management-user-code-page.php:71
+msgid "Speichern"
+msgstr "Safe"
+
+#: E:\xampp\htdocs\wordpress\wp-content\plugins\ad-management-plugin/ad-management-admin-page.php:242
+msgid "Autoren"
+msgstr "Authors"
+
+#: E:\xampp\htdocs\wordpress\wp-content\plugins\ad-management-plugin/ad-management-admin-page.php:406
+msgid "Löschen"
+msgstr "Delete"
+
+#: E:\xampp\htdocs\wordpress\wp-content\plugins\ad-management-plugin/ad-management-admin-page.php:412
+msgid "Dein Code:"
+msgstr "Your Code"
+
+#: E:\xampp\htdocs\wordpress\wp-content\plugins\ad-management-plugin/ad-management-admin-page.php:423
+#: E:\xampp\htdocs\wordpress\wp-content\plugins\ad-management-plugin/ad-management-admin-page.php:534
+msgid "Anzeigen"
+msgstr "Show"
+
+#: E:\xampp\htdocs\wordpress\wp-content\plugins\ad-management-plugin/ad-management-admin-page.php:445
+msgid "Nach Absaetzen"
+msgstr "After Paragraphs"
+
+#: E:\xampp\htdocs\wordpress\wp-content\plugins\ad-management-plugin/ad-management-admin-page.php:480
+msgid "Für Werbecode Freigeben"
+msgstr "Free for Ad-Code"
+
+#: E:\xampp\htdocs\wordpress\wp-content\plugins\ad-management-plugin/ad-management-admin-page.php:486
+#: E:\xampp\htdocs\wordpress\wp-content\plugins\ad-management-plugin/ad-management-admin-page.php:489
+#: E:\xampp\htdocs\wordpress\wp-content\plugins\ad-management-plugin/ad-management-admin-page.php:492
+msgid "Beitrags Anzahl "
+msgstr "Article Count"
+
+#: E:\xampp\htdocs\wordpress\wp-content\plugins\ad-management-plugin/ad-management-admin-page.php:497
+#, php-format
+msgid "Anzeige % des Author "
+msgstr "Display % of the Author"
+
+#: E:\xampp\htdocs\wordpress\wp-content\plugins\ad-management-plugin/ad-management-admin-page.php:500
+#: E:\xampp\htdocs\wordpress\wp-content\plugins\ad-management-plugin/ad-management-admin-page.php:503
+#, php-format
+msgid "Anzeige % des Author"
+msgstr "Display % of the Author"
+
+#: E:\xampp\htdocs\wordpress\wp-content\plugins\ad-management-plugin/ad-management-admin-page.php:553
+msgid "Name"
+msgstr "Name"
+
+#: E:\xampp\htdocs\wordpress\wp-content\plugins\ad-management-plugin/ad-management-admin-page.php:559
+msgid "Anzahl Beitraege"
+msgstr "Count of Articles"
+
+#: E:\xampp\htdocs\wordpress\wp-content\plugins\ad-management-plugin/ad-management-admin-page.php:562
+msgid "User Status"
+msgstr "User status"
+
+#: E:\xampp\htdocs\wordpress\wp-content\plugins\ad-management-plugin/ad-management-admin-page.php:597
+msgid "Kein Status"
+msgstr "No Status"
+
+#: E:\xampp\htdocs\wordpress\wp-content\plugins\ad-management-plugin/ad-management-admin-page.php:612
+msgid "Max. Klicks: "
+msgstr "Max. Clicks"
+
+#: E:\xampp\htdocs\wordpress\wp-content\plugins\ad-management-plugin/ad-management-admin-page.php:620
+msgid "Nur Google Ad Blocken: "
+msgstr "Block just Google Ad"
+
+#: E:\xampp\htdocs\wordpress\wp-content\plugins\ad-management-plugin/ad-management-admin-page.php:628
+msgid "Klick Überwachung aktivieren: "
+msgstr "Click Protection activate"
+
+#: E:\xampp\htdocs\wordpress\wp-content\plugins\ad-management-plugin/ad-management-click-fraud.php:14
+msgid "Adresse"
+msgstr "Address"
+
+#: E:\xampp\htdocs\wordpress\wp-content\plugins\ad-management-plugin/ad-management-click-fraud.php:15
+msgid "Adressen"
+msgstr "Addresses"
+
+#: E:\xampp\htdocs\wordpress\wp-content\plugins\ad-management-plugin/ad-management-click-fraud.php:38
+msgid "Löschen (Wenn Geblocked)"
+msgstr "Delete(If Blocked)"
+
+#: E:\xampp\htdocs\wordpress\wp-content\plugins\ad-management-plugin/ad-management-click-fraud.php:60
+msgid "Ip Adresse"
+msgstr "Ip Address"
+
+#: E:\xampp\htdocs\wordpress\wp-content\plugins\ad-management-plugin/ad-management-click-fraud.php:61
+msgid "Klicks"
+msgstr "Clicks"
+
+#: E:\xampp\htdocs\wordpress\wp-content\plugins\ad-management-plugin/ad-management-click-fraud.php:62
+msgid "Letzter Klick"
+msgstr "Last Click"
+
+#: E:\xampp\htdocs\wordpress\wp-content\plugins\ad-management-plugin/ad-management-click-fraud.php:63
+msgid "Seite auf der er geblocket wurde"
+msgstr "Page where he was blocked"
+
+#: E:\xampp\htdocs\wordpress\wp-content\plugins\ad-management-plugin/ad-management-user-code-page.php:55
+msgid "User Advertisement Code Eingabe"
+msgstr "User Advertisement Code Input"
