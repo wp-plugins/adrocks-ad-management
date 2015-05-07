@@ -51,6 +51,9 @@ Yes in the future there will be a click-fraud protection.
 = 1.0 =
 No Changes
 
+= 1.0.1 = 
+last tested output deleted
+
 == Upgrade Notice ==
 * Always upgrade the plugin for security reasons and bugfixing
 

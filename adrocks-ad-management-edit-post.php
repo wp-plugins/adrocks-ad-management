@@ -117,7 +117,7 @@ function adrocks_ad_management_add_ad_posts($content)
 							$admin_opt[$author_id]['counter'] = $counter;
 						}
 					}else{
-						echo "id ".$opt['id'];
+						//echo "id ".$opt['id'];
 						$data_new = "<div id='adrocks_ad_management_post' class='adrocks-ad-management-post'>".adrocks_ad_management_readDataFromFile($opt['id'])."</div>";
 						$content = adrocks_ad_management_countPara($content, $opt['pos'],$data_new);	
 					}					

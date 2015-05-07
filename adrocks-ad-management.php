@@ -2,7 +2,7 @@
 /*
 Plugin Name: Adrocks Ad Management Plugin
 Description: Control your Ads at your Website
-Version: 1.0
+Version: 1.0.1
 Author: Manuel Fehrenbach
 License: GPLv2
 Domain Path: /languages/
